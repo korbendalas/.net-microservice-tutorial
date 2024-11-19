@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lm2RohAQ2rs=",
+  "success": true,
+  "projectFilePath": "/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "/Users/daliborpetric/.nuget/packages/fluentvalidation/11.10.0/fluentvalidation.11.10.0.nupkg.sha512",
+    "/Users/daliborpetric/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/daliborpetric/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.10.0/fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
+    "/Users/daliborpetric/.nuget/packages/mapster/7.4.1-pre01/mapster.7.4.1-pre01.nupkg.sha512",
+    "/Users/daliborpetric/.nuget/packages/mapster.core/1.2.2-pre01/mapster.core.1.2.2-pre01.nupkg.sha512",
+    "/Users/daliborpetric/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/daliborpetric/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/daliborpetric/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.deps.json
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.dll
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.pdb
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.AssemblyReference.cache
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfo.cs
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.dll
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/refint/BuildingBlocks.dll
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.pdb
+/Users/daliborpetric/Desktop/dotnet/eshop/BuildingBlocks/obj/Debug/net8.0/ref/BuildingBlocks.dll

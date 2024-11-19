@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  catalog.api:
+    build:
+      context: "/Users/daliborpetric/Desktop/dotnet/eshop"
+      dockerfile: "Services/Catalog/Catalog.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/Catalog.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "catalog.api:dev"
+    ports: []
+    volumes:
+    - "/Users/daliborpetric/.nuget/packages:/home/app/.nuget/packages"
+    - "/Users/daliborpetric/Desktop/dotnet/eshop/Services/Catalog/Catalog.API:/app:rw"
+    - "/Users/daliborpetric/Desktop/dotnet/eshop:/src:rw"
+    working_dir: "/app"
